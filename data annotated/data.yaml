@@ -1,0 +1,5 @@
+names:
+  0: cow
+path: D:/isdi/data/data annotated
+train: train.txt
+val: train.txt

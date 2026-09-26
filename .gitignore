@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ultralytics / YOLO cache & temporary files
+*.cache
+runs/segment/train*/weights/last.pt
+runs/detect/
+
+# Environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Archives
+*.zip
